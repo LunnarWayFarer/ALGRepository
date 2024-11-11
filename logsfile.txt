@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Something just get typed
 Smith changed
+=======
+Something just get typed
+>>>>>>> difflogs
